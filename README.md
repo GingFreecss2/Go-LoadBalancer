@@ -12,7 +12,7 @@ This is a simple load balancer implemented in Go, designed to distribute incomin
 
 ## Architecture
 
-![Load Balancer Architecture](architecture.png)
+![Load Balancer Architecture](/src/architecture.PNG)
 
 The architecture of the load balancer is straightforward. It includes the following components:
 
