@@ -30,7 +30,7 @@ To get started with this load balancer, make sure you have Go installed on your 
 
 ```bash
 git clone https://github.com/GingFreecss2/Go-LoadBalancer.git
-cd Go-LoadBalance
+cd Go-LoadBalancer
 ```
 
 2. Build and run the load balancer.
